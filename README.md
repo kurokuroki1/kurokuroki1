@@ -23,9 +23,8 @@ Frontend   →  React · Next.js · TypeScript · Tailwind CSS · Vite
 Backend    →  Express · Node.js · Prisma · PostgreSQL · REST APIs
 ML / Data  →  Python · PyTorch · CNNs · LSTMs · scikit-learn
 Tooling    →  Git · AWS S3 · Vercel · Linux
-[portfolio](https://portfolio-dtxa5no0r-kurom-s-projects.vercel.app/)
 ```
 
 ---
-
+[My Portfolio](https://portfolio-dtxa5no0r-kurom-s-projects.vercel.app/)
 📫 Reach me on [GitHub](https://github.com/kurokuroki1)
